@@ -70,7 +70,7 @@
 <distributionManagement>
         <repository>
             <id>github</id>
-            <url>https://maven.pkg.github.com/subashpernandas/Common-services</url>
+            <url>https://maven.pkg.github.com/subashpernandas/common-services</url>
         </repository>
     </distributionManagement>
 </project>
