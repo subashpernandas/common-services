@@ -8,7 +8,7 @@
 		<version>3.5.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>com.common.icici</groupId>
 	<artifactId>common-service-own</artifactId>
 	<version>DEV-0.0.1-SNAPSHOT</version>
 	<name>common-service-own</name>
