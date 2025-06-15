@@ -1,4 +1,4 @@
-package com.example.common_service_own;
+package com.common.icici;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
